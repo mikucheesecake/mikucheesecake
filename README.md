@@ -1,12 +1,8 @@
- <p align="left">reet</p>
+<p align="left">reet</p>
 
 ###
 
 <h2 align="left">yo</h2>
-
-###
-
-<img align="right" height="167" src="https://i.redd.it/lain-iwakura-serial-experiments-lain-i-love-her-so-much-v0-k8kd45oodbkd1.jpg?width=1400&format=pjpg&auto=webp&s=41fb921b610b604975dd399082521231b5863c56"  />
 
 ###
 
@@ -38,9 +34,13 @@
 
 ###
 
+<img align="right" height="167" src="https://i.redd.it/lain-iwakura-serial-experiments-lain-i-love-her-so-much-v0-k8kd45oodbkd1.jpg?width=1400&format=pjpg&auto=webp&s=41fb921b610b604975dd399082521231b5863c56"  />
+
+###
+
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mikucheesecake&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/312y2kik2emtiq3v7q55vrwl2d6q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312y2kik2emtiq3v7q55vrwl2d6q&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312y2kik2emtiq3v7q55vrwl2d6q&count=4&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
