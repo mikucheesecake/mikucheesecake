@@ -1,4 +1,4 @@
-<p align="left">reet</p>
+ <p align="left">reet</p>
 
 ###
 
@@ -47,16 +47,6 @@
   <img src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
