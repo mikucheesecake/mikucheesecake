@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/mikucheesecake/mikucheesecake/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
